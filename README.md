@@ -1,4 +1,4 @@
-# 3-aug-2021
+# 4-aug-2021
 Task:
   1.pull docker postgres
   2.network ubuntu and postgres docker containers
